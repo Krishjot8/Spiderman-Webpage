@@ -1,0 +1,71 @@
+h1{
+text-align: center;
+    font-family: Homoarakhn;
+    color: rgb(223, 31, 45);
+    padding:13px ;
+}
+h2{
+
+    font-family: Homoarakhn;
+    color: rgb(223, 31, 45);
+font-size: xx-large;
+padding: 100px 100px;
+}
+
+.search-box{
+    position: absolute;
+    top:31.5%;
+    left:9%;
+    border-radius: 30px;
+    background: rgb(223, 31, 45);
+       transform: translate(249%,-510%);
+    height: 20px;
+    padding: 8px;
+    border: solid rgb(171, 173, 191);
+    
+    
+    }
+    .search-btn{
+        color: rgb(43, 55, 132);
+        float: right;
+        width: 20px;
+        height:90px ;
+        top: 30%;
+        left: 40%;
+        border-radius: none;
+        background:none ;
+        }
+    
+    
+    
+    
+    
+    
+    .search-txt{
+    color: rgb(43, 55, 132);
+       outline:rgb(43, 55, 132) ;
+       border: none;
+       font-size: large; 
+font-family:homoarakhn ;
+    background: none;
+    line-height:15px ;
+    }
+
+    .label{
+
+        font-family:homoarakhn ;
+
+    }
+    button{
+        background-color: rgb(223, 31, 45);
+        font-family:homoarakhn ;
+    color: rgb(43, 55, 132);
+    border: solid rgb(171, 173, 191);
+    }
+
+input{
+    font-family:homoarakhn ;
+background: rgb(223, 31, 45);
+border:solid rgb(171, 173, 191);
+color:rgb(43, 55, 132);
+}

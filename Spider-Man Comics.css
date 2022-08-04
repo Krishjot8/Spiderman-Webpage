@@ -1,0 +1,74 @@
+body{
+
+background-color: rgb(43, 55, 132);
+color: rgb(223, 31, 45); ;
+font-family:Homoarakhn ;
+
+}
+
+
+.topnav{
+    font-family: homoarakhn;
+    overflow:hidden ;
+    background-color:none;
+     margin:45px ;
+     text-align: center;
+    padding: 145px 145px;
+    }
+    .topnav a{ 
+    color: rgb(223, 31, 45);
+    text-align: center;
+    padding: 22px 28px;
+    text-decoration:none;
+    font-size: 15px;
+    }
+    .topnav a:hover{
+        background-color: rgb(223, 31, 45);
+        color: rgb(43, 55, 132);
+    }
+    .topnav a.active{
+   
+    color: rgb(223, 31, 45);
+    }
+
+    .search-box{
+        position: absolute;
+        top:31.5%;
+        left:9%;
+        border-radius: 30px;
+        background: rgb(223, 31, 45);
+           transform: translate(249%,-510%);
+        height: 20px;
+        padding: 8px;
+        border: solid rgb(171, 173, 191);
+        
+        
+        }
+        .search-btn{
+            color: rgb(43, 55, 132);
+            float: right;
+            width: 20px;
+            height:90px ;
+            top: 30%;
+            left: 40%;
+            border-radius: none;
+            background:none ;
+            }
+        
+        
+        
+        
+        
+        
+        .search-txt{
+        color: rgb(43, 55, 132);
+           outline:rgb(43, 55, 132) ;
+           border: none;
+           font-size: large; 
+           font-family:homoarakhn ;
+        background: none;
+        line-height:15px ;
+        }
+
+        
+        

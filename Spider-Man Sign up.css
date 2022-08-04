@@ -1,0 +1,77 @@
+h1{
+text-align: center;
+    font-family: Homoarakhn;
+    color: rgb(223, 31, 45);
+padding: 2px ;
+}
+
+h2{
+    font-family: Homoarakhn;
+    color: rgb(223, 31, 45);
+padding:60px 60px;
+
+
+}
+.search-box{
+    position: absolute;
+    top:31.5%;
+    left:9%;
+    border-radius: 30px;
+    background: rgb(223, 31, 45);
+       transform: translate(249%,-510%);
+    height: 20px;
+    padding: 8px;
+    border: solid rgb(171, 173, 191);
+    
+    
+    }
+    .search-btn{
+        color: rgb(43, 55, 132);
+        float: right;
+        width: 20px;
+        height:90px ;
+        top: 30%;
+        left: 40%;
+        border-radius: none;
+        background:none ;
+        }
+    
+    .search-txt{
+    color: rgb(43, 55, 132);
+       outline:rgb(43, 55, 132) ;
+       border: none;
+       font-size: large; 
+       font-family:homoarakhn ;
+    background: none;
+    line-height:15px ;
+    }
+    .media{
+        color: rgb(223, 31, 45);
+        display: block;
+        margin: -205px 40px;
+        font-size: x-large;
+        padding: -15px 5px;
+        text-align: start;
+        }
+        button{
+            background-color: rgb(223, 31, 45);
+            font-family:homoarakhn ;
+        color: rgb(43, 55, 132);
+        }
+
+        
+input{
+    font-family:homoarakhn ;
+background: rgb(223, 31, 45);
+border:solid rgb(171, 173, 191);
+color:rgb(43, 55, 132);
+}
+
+form{
+    font-family:homoarakhn ;
+   
+
+
+    
+color: rgb(223, 31, 45);
+}
